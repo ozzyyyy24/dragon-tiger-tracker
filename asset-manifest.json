@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dragon-tiger-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/dragon-tiger-tracker/static/js/main.7a0e997a.js",
+    "static/js/453.30d527ea.chunk.js": "/dragon-tiger-tracker/static/js/453.30d527ea.chunk.js",
+    "index.html": "/dragon-tiger-tracker/index.html",
+    "main.e6c13ad2.css.map": "/dragon-tiger-tracker/static/css/main.e6c13ad2.css.map",
+    "main.7a0e997a.js.map": "/dragon-tiger-tracker/static/js/main.7a0e997a.js.map",
+    "453.30d527ea.chunk.js.map": "/dragon-tiger-tracker/static/js/453.30d527ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a0e997a.js"
+  ]
+}
